@@ -1,0 +1,14 @@
+.IMC {
+    background-color: mistyrose;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-style: italic;
+
+}
+
+.botao {
+    background-color: rgb(219, 161, 179);
+    color: white;
+    font-style: italic;
+}
